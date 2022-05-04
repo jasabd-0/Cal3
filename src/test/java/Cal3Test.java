@@ -18,4 +18,3 @@ class Cal3Test {
         assertEquals(1,calculator.subtract(2,1), "2-1 should equal 1");
     }
 
-}
